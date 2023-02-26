@@ -65,6 +65,8 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
   * [GitHub Profile Achievements trophy](https://github.com/Schweinepriester/github-profile-achievements)
   * [Canal tecnologia em video ➜ COMO GANHAR ACHIEVEMENTS (CONQUISTAS) NO GITHUB
  ](https://www.youtube.com/watch?v=4fTwd-8ifjo)
+ * [ Ankush Chauhan ➜ Unlock GitHub Profile Achievements | YOLO, GitHub Galaxy, Pair Extraordinaire, Quickdraw and more!
+ ](https://www.youtube.com/watch?v=wBW-vjM7ccA)
 
 <br/>
 
