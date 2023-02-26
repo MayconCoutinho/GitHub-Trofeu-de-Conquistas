@@ -33,6 +33,11 @@
 <br/>
 
 
+### 😸 ➜  [Projeto no GitHub](https://github.com/MayconCoutinho/GitHub-Trofeu-de-Conquistas#Introdu%C3%A7%C3%A3o)
+
+<br/>
+
+
 <a id="Resultados"></a>
 ## 🚀 Direto ao ponto 
   > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
@@ -68,6 +73,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
  ](https://www.youtube.com/watch?v=4fTwd-8ifjo)
  * [ Ankush Chauhan ➜ Unlock GitHub Profile Achievements | YOLO, GitHub Galaxy, Pair Extraordinaire, Quickdraw and more!
  ](https://www.youtube.com/watch?v=wBW-vjM7ccA)
+ *[MiDeev ➜ КАК ПОЛУЧИТЬ НОВЫЕ ЗНАЧКИ НА GITHUB | ЧАСТЬ 1 | ТУТОРИАЛ ](https://www.youtube.com/watch?v=VLW3Yxgt80I)
 
 <br/>
 
