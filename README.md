@@ -28,7 +28,7 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀⠀Já tem um bom tempo que quero conquistar todos os troféus do GitHub, porém ainda não sei como conseguir todos, mas os que já sei e entendi como conseguir estou compartilhando,e pretendo deixar em branco os que ainda não sei, e caso tu saiba comente como que faz para atualizamos como que faz***
+  ***⠀⠀⠀⠀⠀Já tem um bom tempo que quero conquistar todos os troféus do GitHub, demorei um certo tempo para entender e conseguir todos sei que talvez muitos nem sabiam que isso era possível, mas aqui você encontrará de forma resumida e direto ao ponto de como conseguir cada conquista, tem 2 que ainda não sei, e se tiver algo errado só falar comigo, para consertar o erro é isso, bora conquistar todos! :)***
 
 <br/>
 
@@ -41,14 +41,16 @@
 <a id="Resultados"></a>
 ## 🚀 Direto ao ponto 
   > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
- 
+  
+ <br/>
+
 
 | Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
-Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | ?
-Open Sourcerer | ![Open Sourcerer Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/open-sourcerer-default.png) | ? | ?
+Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | Não sei como
+Open Sourcerer | ![Open Sourcerer Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/open-sourcerer-default.png) | ? | Não sei como
 ||| <!-- this empty row is intentional to separate -->
-Pair Extraordinaire | ![Pair Extraordinaire Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png) | ✔️ |[Coautoria](https://docs.github.com/pt/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada, esse é bem simples, ma acredito que vai ser mais facil de entender vendo esse video [video](https://youtu.be/G36D8fE4Pzo?t=601), o video não é meu, mas funciona e achei bem simples.
+Pair Extraordinaire | ![Pair Extraordinaire Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png) | ✔️ |[Coautoria](https://docs.github.com/pt/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) em uma solicitação pull mesclada, esse é bem simples, ma acredito que vai ser mais facil de entender vendo esse [video](https://youtu.be/G36D8fE4Pzo?t=601), o video não é meu, mas funciona e achei bem simples.
 Quickdraw | ![Quickdraw Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png) | ✔️ | Tem que encerrar um problema ou um pull request em até 5 minutos após a abertura, basicamente é da um commit/push e depois não aceitar a resposta.
 Starstruck | ![Starstruck Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/starstruck-default.png) | ✔️ | Esse é bem simples e complicado ao mesmo tempo, porque tu tem que ter um bom repositório para as pessoas darem uma estrela, precisa de 16 estrelas no total.
 ||| <!-- this empty row is intentional to separate -->
@@ -73,7 +75,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
  ](https://www.youtube.com/watch?v=4fTwd-8ifjo)
  * [ Ankush Chauhan ➜ Unlock GitHub Profile Achievements | YOLO, GitHub Galaxy, Pair Extraordinaire, Quickdraw and more!
  ](https://www.youtube.com/watch?v=wBW-vjM7ccA)
- *[MiDeev ➜ КАК ПОЛУЧИТЬ НОВЫЕ ЗНАЧКИ НА GITHUB | ЧАСТЬ 1 | ТУТОРИАЛ ](https://www.youtube.com/watch?v=VLW3Yxgt80I)
+ * [MiDeev ➜ КАК ПОЛУЧИТЬ НОВЫЕ ЗНАЧКИ НА GITHUB | ЧАСТЬ 1 | ТУТОРИАЛ ](https://www.youtube.com/watch?v=VLW3Yxgt80I)
 
 <br/>
 
@@ -91,3 +93,15 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 
 
 </div> 
+
+<br/>
+
+
+<p align="center">
+  ⭐ Linkedin ➜ https://www.linkedin.com/in/maycon-coutinho/ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🧙 GitHub ➜ https://github.com/MayconCoutinho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
