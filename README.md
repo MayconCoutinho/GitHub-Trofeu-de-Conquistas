@@ -37,7 +37,8 @@
 ## 🚀 Direto ao ponto 
   > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
  
-| Title | Badge | Earnable? | Earned by |
+
+| Título | Emblema | Pode ser ganho? | Ganhou por |
 | --- | --- | --- | --- |
 Heart On Your Sleeve | ![Heart On Your Sleeve Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/heart-on-your-sleeve-default.png) | ? | ?
 Open Sourcerer | ![Open Sourcerer Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/open-sourcerer-default.png) | ? | ?
@@ -46,13 +47,13 @@ Pair Extraordinaire | ![Pair Extraordinaire Badge](https://github.com/Schweinepr
 Quickdraw | ![Quickdraw Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png) | ✔️ | Closed an issue or a pull request within 5 min of opening
 Starstruck | ![Starstruck Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/starstruck-default.png) | ✔️ | Created a repository that has 16 stars
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain | ![Galaxy Brain Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/galaxy-brain-default.png) | ✔️ | 2 accepted answers
-Pull Shark | ![Pull Shark Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png) | ✔️ | 2 pull requests merged
-YOLO | ![YOLO Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png) | ✔️ | Merged a pull request without code review
+Galaxy Brain | ![Galaxy Brain Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/galaxy-brain-default.png) | ✔️ | asdasdasdsadasda
+Pull Shark | ![Pull Shark Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png) | ✔️ | Esse é um dos mais fáceis é só ***criar um projeto e da merge duas vezes.*** 
+YOLO | ![YOLO Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png) | ✔️ | Uma pull request mesclada sem revisão de código, basicamente você coloca alguém para revisar o código e pede para ele aceitar/aprovar a PR, no entanto ***tu aprova a PR sem ninguém ter revisado ou ter aceitado a PR***.
 ||| <!-- this empty row is intentional to separate -->
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
+Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png) | ❌ | ***⭐ Conquista rara não tem como conseguir pegar mais ⭐*** Contribuiu com código para repositórios no [2020 GitHub Archive Program](https://archiveprogram.github.com/)
+Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png) | ✔️ | Patrocínio de trabalho de código aberto via [GitHub Sponsors](https://github.com/sponsors) é só doar para algum projeto de sua preferência,  o valor minimo é 5 dólar.
+Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/mars-2020-contributor-default.png) | ❌ | ***⭐ Conquista rara não tem como conseguir pegar mais ⭐*** <br/> Contribuição de código para repositórios usados na [Missão de Helicóptero Mars 2020](https://github.com/readme/nasa-ingenuity-helicopter)
 
 <br /> 
 
