@@ -28,7 +28,7 @@
 <a id="Introdução"></a>
 ## 🧩 Introdução 
 
-  ***⠀⠀⠀⠀⠀Já tem um bom tempo que quero conquistar todos os troféus do GitHub, demorei um certo tempo para entender e conseguir todos sei que talvez muitos nem sabiam que isso era possível, mas aqui você encontrará de forma resumida e direto ao ponto de como conseguir cada conquista, tem 2 que ainda não sei, e se tiver algo errado só falar comigo, para consertar o erro é isso, bora conquistar todos! :)***
+  ***⠀⠀⠀⠀⠀Já faz um tempo que estou empenhado em conquistar todos os troféus do GitHub. Levei algum tempo para entender e alcançar cada um deles, e sei que muitos podem nem estar cientes de que isso é possível. Neste guia, você encontrará um resumo direto ao ponto de como obter cada conquista. Ainda há dois troféus que eu não consegui, porque não sei como que faz, mas se houver algum erro ou imprecisão nesse guia, por favor me avise para que eu possa corrigi-lo. Vamos juntos conquistar todos esses troféus! :)***
 
 <br/>
 
