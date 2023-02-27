@@ -40,8 +40,7 @@
 
 <a id="Resultados"></a>
 ## 🚀 Direto ao ponto 
-  > Todos os resultados foram alcançados com sucesso. De modo geral são esses os resultados de cada requisição. 
-  
+
  <br/>
 
 
