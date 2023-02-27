@@ -97,11 +97,10 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](ht
 <br/>
 
 
-<p align="center">
-  ⭐ Linkedin ➜ https://www.linkedin.com/in/maycon-coutinho/ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  🧙 GitHub ➜ https://github.com/MayconCoutinho &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ### ⠀⠀⠀⠀[⭐ Linkedin](https://www.linkedin.com/in/maycon-coutinho/)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/MayconCoutinho)
 
-</p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
