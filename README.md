@@ -32,12 +32,6 @@
 
 <br/>
 
-
-### 😸 ➜  [Projeto no GitHub](https://github.com/MayconCoutinho/GitHub-Trofeu-de-Conquistas#Introdu%C3%A7%C3%A3o)
-
-<br/>
-
-
 <a id="Resultados"></a>
 ## 🚀 Direto ao ponto 
 
